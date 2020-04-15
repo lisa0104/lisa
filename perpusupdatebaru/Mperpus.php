@@ -3,7 +3,7 @@ class Mperpus {
     var  $host="localhost";
     var  $user="root";
     var  $pass="";
-    var  $db="perpustakaan";
+    var  $db="perpustakaanmus";
 
 public function koneksi ()
     {
