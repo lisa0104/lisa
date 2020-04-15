@@ -1,0 +1,17 @@
+body{
+	font-family:comic sans ms;
+	font-size:14; 
+	color:black;
+	background-image:url('from3.jpg');
+	background-size:1250px 2000px;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-color:pink;
+	text-align:center;
+}
+
+header{
+
+	/*height: 50px;*/
+	padding: 2px 10px;
+}
